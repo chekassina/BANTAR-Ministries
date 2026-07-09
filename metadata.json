@@ -1,0 +1,6 @@
+{
+  "name": "Christ's Revelation International Church",
+  "description": "The online ministry hub of Christ's Revelation International Church and Apostle Godwin Bantar, featuring CRISOM (School of Ministry), Sermon Centre, Online Store, Events Calendar, Giving, and Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
